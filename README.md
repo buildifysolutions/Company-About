@@ -8,11 +8,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:3a1800,100:FF6B00&height=200&section=header&text=&animation=twinkling" width="100%" alt=""/>
 
-<img src="assets/banner.svg" width="100%" alt="Buildify Solutions — We Build. You Grow."/>
+<img src="assests/banner.svg" width="100%" alt="Buildify Solutions — We Build. You Grow."/>
 
 <br/>
 
-<img src="assets/logo.png" width="170" alt="Buildify Solutions logo"/>
+<img src="assests/logo.png" width="170" alt="Buildify Solutions logo"/>
 
 <a href="https://www.buildifysolution.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1100&color=FF6B00&center=true&vCenter=true&width=820&height=60&lines=Build.+Learn.+Create.+Grow.;Sri+Lanka's+go-to+tech+partner;Keep+your+heart+human.;Keep+your+standards+high.;Keep+your+boundaries+clear.;24-hour+islandwide+delivery*" alt="Typing animation"/>
@@ -33,7 +33,7 @@
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="assests/divider.svg" width="100%" alt=""/>
 
 ## 👋 Welcome to Buildify
 
@@ -45,7 +45,7 @@
 <tr>
 <td width="38%" align="center">
 
-<img src="assets/mascot.jpeg" width="300" alt="Buildify mascot giving a thumbs up"/>
+<img src="assests/mascot.jpeg" width="300" alt="Buildify mascot giving a thumbs up"/>
 
 **👷 Our hard-hat mascot is on the job.**
 <br/>*Winking. Thumbs up. Tools ready.*
@@ -66,12 +66,12 @@ To provide **quality tech products, reliable solutions, and practical support** 
 </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="assests/divider.svg" width="100%" alt=""/>
 
 ## 🧭 Our Promise: The Buildify Code
 
 <div align="center">
-<img src="assets/values.svg" width="100%" alt="Keep your heart human. Keep your standards high. Keep your boundaries clear."/>
+<img src="assests/values.svg" width="100%" alt="Keep your heart human. Keep your standards high. Keep your boundaries clear."/>
 </div>
 
 <div align="center">
@@ -80,7 +80,7 @@ To provide **quality tech products, reliable solutions, and practical support** 
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="assests/divider.svg" width="100%" alt=""/>
 
 ## ⚡ What We Do
 
@@ -104,17 +104,17 @@ flowchart LR
     E --> F([🚀 Launch & Grow])
 ```
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="assests/divider.svg" width="100%" alt=""/>
 
 ## 🚚 Fast. Reliable. Islandwide.
 
 <div align="center">
-<img src="assets/delivery.svg" width="100%" alt="24-hour islandwide delivery"/>
+<img src="assests/delivery.svg" width="100%" alt="24-hour islandwide delivery"/>
 
 <sub>\*Delivery timelines may vary by location and availability.</sub>
 </div>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="assests/divider.svg" width="100%" alt=""/>
 
 ## 🏆 Why Buildify?
 
@@ -128,7 +128,7 @@ flowchart LR
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="assests/divider.svg" width="100%" alt=""/>
 
 ## 👥 Who We Build For
 
@@ -150,7 +150,7 @@ We share everything we learn, because **teaching is part of building.**
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="assests/divider.svg" width="100%" alt=""/>
 
 ## 🧰 Our Tech Playground
 
@@ -160,7 +160,7 @@ We share everything we learn, because **teaching is part of building.**
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="assests/divider.svg" width="100%" alt=""/>
 
 ## 📊 Open Source Activity
 
@@ -181,7 +181,7 @@ We share everything we learn, because **teaching is part of building.**
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="assests/divider.svg" width="100%" alt=""/>
 
 ## 🎨 Brand DNA
 
@@ -201,12 +201,12 @@ We share everything we learn, because **teaching is part of building.**
 <details>
 <summary><b>📘 View the full Creator / Editor Brand Playbook</b></summary>
 <br/>
-<img src="assets/brand-playbook.png" width="100%" alt="Buildify brand playbook"/>
+<img src="assests/brand-playbook.png" width="100%" alt="Buildify brand playbook"/>
 </details>
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="assests/divider.svg" width="100%" alt=""/>
 
 ## 🤝 Let's Build Something
 
