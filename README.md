@@ -166,14 +166,13 @@ We share everything we learn, because **teaching is part of building.**
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=buildifysolutions&show_icons=true&bg_color=000000&title_color=FF6B00&icon_color=FF6B00&text_color=FFFFFF&border_color=FF6B00&count_private=true" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buildifysolutions&layout=compact&bg_color=000000&title_color=FF6B00&text_color=FFFFFF&border_color=FF6B00" alt="Top languages"/>
-
 <img src="https://streak-stats.demolab.com?user=buildifysolutions&background=000000&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FF6B00&dates=AAAAAA&stroke=FF6B0055&border=FF6B00" alt="Streak stats"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=buildifysolutions&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=buildifysolutions&bg_color=000000&color=FF6B00&line=FF6B00&point=FFFFFF&area=true&area_color=FF6B00&hide_border=true&title_color=FF6B00" width="95%" alt="Contribution graph"/>
+<img src="https://img.shields.io/github/followers/buildifysolutions?style=for-the-badge&logo=github&color=FF6B00&labelColor=000000" alt="Followers"/>
+<img src="https://img.shields.io/github/last-commit/buildifysolutions/Company-About?style=for-the-badge&color=FF6B00&labelColor=000000" alt="Last commit"/>
+<img src="https://img.shields.io/github/repo-size/buildifysolutions/Company-About?style=for-the-badge&color=FF6B00&labelColor=000000" alt="Repo size"/>
 
 ### 🐍 The Buildify Snake Is Hungry
 
