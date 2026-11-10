@@ -1,3 +1,9 @@
+<!-- ============================================================
+     BUILDIFY SOLUTIONS — Company Intro / GitHub Profile README
+     1. Replace every  buildifysolutions  with your real username
+     2. Keep the /assets folder and /.github folder next to this file
+     ============================================================ -->
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:3a1800,100:FF6B00&height=200&section=header&text=&animation=twinkling" width="100%" alt=""/>
@@ -171,7 +177,7 @@ We share everything we learn, because **teaching is part of building.**
 
 ### 🐍 The Buildify Snake Is Hungry
 
-<img src="https://raw.githubusercontent.com/buildifysolutions/buildifysolutions/output/github-snake-dark.svg" width="100%" alt="Contribution snake"/>
+<img src="https://raw.githubusercontent.com/buildifysolutions/Company-About/output/github-snake-dark.svg" width="100%" alt="Contribution snake"/>
 
 </div>
 
