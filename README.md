@@ -1,9 +1,3 @@
-<!-- ============================================================
-     BUILDIFY SOLUTIONS — Company Intro / GitHub Profile README
-     1. Replace every  YOUR_GITHUB_USERNAME  with your real username
-     2. Keep the /assets folder and /.github folder next to this file
-     ============================================================ -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:3a1800,100:FF6B00&height=200&section=header&text=&animation=twinkling" width="100%" alt=""/>
@@ -29,7 +23,7 @@
 [![X](https://img.shields.io/badge/X-@BuildifySolutions-FF6B00?style=for-the-badge&logo=x&logoColor=white&labelColor=000000)](https://x.com/BuildifySolutions)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Buildify_Solutions-FF6B00?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/company/BuildifySolutions)
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=FF6B00&style=for-the-badge" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=buildifysolutions&label=PROFILE+VIEWS&color=FF6B00&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
@@ -166,18 +160,18 @@ We share everything we learn, because **teaching is part of building.**
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&bg_color=000000&title_color=FF6B00&icon_color=FF6B00&text_color=FFFFFF&border_color=FF6B00&count_private=true" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&bg_color=000000&title_color=FF6B00&text_color=FFFFFF&border_color=FF6B00" alt="Top languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=buildifysolutions&show_icons=true&bg_color=000000&title_color=FF6B00&icon_color=FF6B00&text_color=FFFFFF&border_color=FF6B00&count_private=true" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buildifysolutions&layout=compact&bg_color=000000&title_color=FF6B00&text_color=FFFFFF&border_color=FF6B00" alt="Top languages"/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&background=000000&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FF6B00&dates=AAAAAA&stroke=FF6B0055&border=FF6B00" alt="Streak stats"/>
+<img src="https://streak-stats.demolab.com?user=buildifysolutions&background=000000&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FF6B00&dates=AAAAAA&stroke=FF6B0055&border=FF6B00" alt="Streak stats"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=buildifysolutions&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=000000&color=FF6B00&line=FF6B00&point=FFFFFF&area=true&area_color=FF6B00&hide_border=true&title_color=FF6B00" width="95%" alt="Contribution graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=buildifysolutions&bg_color=000000&color=FF6B00&line=FF6B00&point=FFFFFF&area=true&area_color=FF6B00&hide_border=true&title_color=FF6B00" width="95%" alt="Contribution graph"/>
 
 ### 🐍 The Buildify Snake Is Hungry
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg" width="100%" alt="Contribution snake"/>
+<img src="https://raw.githubusercontent.com/buildifysolutions/buildifysolutions/output/github-snake-dark.svg" width="100%" alt="Contribution snake"/>
 
 </div>
 
